@@ -1,0 +1,8 @@
+PS C:\Users\Acer\Documents> git config --global user.name "Sayan"
+PS C:\Users\Acer\Documents> git config --global user.email "lvegeto@gmail.com"
+PS C:\Users\Acer\Documents> git config --global core.editor "vim"
+PS C:\Users\Acer\Documents> cd C:\Users\Acer\Desktop\cms-workshop\
+PS C:\Users\Acer\Desktop\cms-workshop> git init
+Initialized empty Git repository in C:/Users/Acer/Desktop/cms-workshop/.git/
+#We only do init once for every project
+PS C:\Users\Acer\Desktop\cms-workshop> git status
